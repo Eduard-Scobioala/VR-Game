@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 1
+    path: Assets/Scenes/1 Start Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/2 Escape Room.unity
+    guid: 844d7b2867e95684989bd03a3b867f8d
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3adad59ec0bacae4aac679ba99f366a3,
       type: 2}
